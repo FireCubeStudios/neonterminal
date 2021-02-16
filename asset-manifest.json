@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/neonterminal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/neonterminal/static/js/main.4100e752.chunk.js",
+    "main.js.map": "/neonterminal/static/js/main.4100e752.chunk.js.map",
+    "runtime-main.js": "/neonterminal/static/js/runtime-main.7afd5eff.js",
+    "runtime-main.js.map": "/neonterminal/static/js/runtime-main.7afd5eff.js.map",
+    "static/css/2.bab7986c.chunk.css": "/neonterminal/static/css/2.bab7986c.chunk.css",
+    "static/js/2.384c5f80.chunk.js": "/neonterminal/static/js/2.384c5f80.chunk.js",
+    "static/js/2.384c5f80.chunk.js.map": "/neonterminal/static/js/2.384c5f80.chunk.js.map",
+    "index.html": "/neonterminal/index.html",
+    "precache-manifest.05d15662759bc5e75c7379d28547319a.js": "/neonterminal/precache-manifest.05d15662759bc5e75c7379d28547319a.js",
+    "service-worker.js": "/neonterminal/service-worker.js",
+    "static/css/2.bab7986c.chunk.css.map": "/neonterminal/static/css/2.bab7986c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/neonterminal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.384c5f80.chunk.js.LICENSE.txt": "/neonterminal/static/js/2.384c5f80.chunk.js.LICENSE.txt",
+    "static/media/SearchHelper.js.map": "/neonterminal/static/media/SearchHelper.js.5c64cc87.map",
+    "static/media/attach.js.map": "/neonterminal/static/media/attach.js.3bb6e18b.map",
+    "static/media/attach.test.js.map": "/neonterminal/static/media/attach.test.js.50968abd.map",
+    "static/media/conpty.node": "/neonterminal/static/media/conpty.e602c548.node",
+    "static/media/fit.js.map": "/neonterminal/static/media/fit.js.e8ce737d.map",
+    "static/media/fit.test.js.map": "/neonterminal/static/media/fit.test.js.558768ae.map",
+    "static/media/fullscreen.js.map": "/neonterminal/static/media/fullscreen.js.bc6e3156.map",
+    "static/media/fullscreen.test.js.map": "/neonterminal/static/media/fullscreen.test.js.84e57f27.map",
+    "static/media/pty.node": "/neonterminal/static/media/pty.6726657f.node",
+    "static/media/search.js.map": "/neonterminal/static/media/search.js.83f55f33.map",
+    "static/media/terminado.js.map": "/neonterminal/static/media/terminado.js.5b917dff.map",
+    "static/media/terminado.test.js.map": "/neonterminal/static/media/terminado.test.js.235bc551.map",
+    "static/media/winptyCompat.js.map": "/neonterminal/static/media/winptyCompat.js.4ec3dd4c.map",
+    "static/media/winptyCompat.test.js.map": "/neonterminal/static/media/winptyCompat.test.js.854260a1.map",
+    "static/media/zmodem.js.map": "/neonterminal/static/media/zmodem.js.eb95ef74.map",
+    "static/media/zmodem.test.js.map": "/neonterminal/static/media/zmodem.test.js.09e671a4.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7afd5eff.js",
+    "static/css/2.bab7986c.chunk.css",
+    "static/js/2.384c5f80.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4100e752.chunk.js"
+  ]
+}
